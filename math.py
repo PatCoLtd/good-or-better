@@ -10,5 +10,3 @@ def multiply(x,y):
 #Divide Implementation
 def divide(x,y):
     return x/y
-def fibonacci(n) :
-	pass
