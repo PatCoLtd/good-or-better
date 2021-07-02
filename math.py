@@ -10,6 +10,3 @@ def multiply(x,y):
 #Divide Implementation
 def divide(x,y):
     return x/y
-#Fibo
-def fibo(n) :
-    pass
